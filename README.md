@@ -1,4 +1,4 @@
-# Portifólio Simplificado
+# Cartao pre visualizacao do blog principal
 
 ![Visualização do site Portifólio simplificado](./github/capa-do-projeto.png)
 
